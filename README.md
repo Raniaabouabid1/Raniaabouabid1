@@ -8,7 +8,7 @@
 
 <br/>
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20" /> Paris–Saclay ⇄ Fès** | Mixing code, data & a bit of chaos magic to turn constraints into solutions
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20" /> Paris,Île de france** | Mixing code, data & a bit of chaos magic to turn constraints into solutions
 
 <br/>
 
@@ -99,10 +99,6 @@ Trained YOLOv8 on custom violence datasets, built an event processing pipeline, 
 
 **What I learned:** Production ML is 20% training models, 80% handling edge cases and keeping things running.
 
----
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> GitHub Stats & Activity
 
