@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raniaabouabid1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rania-bouabid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D55?style=for-the-badge&logo=Firefox-Browser&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D55?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://raniaabouabid1.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-FF2D55?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raniabouabid7@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
