@@ -101,16 +101,6 @@ Trained YOLOv8 on custom violence datasets, built an event processing pipeline, 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Dynamic Reporting Platform
-**Flexible MongoDB reporting without schema migrations**  
-`Spring Boot` `MongoDB` `Dynamic aggregations` `Template engine`
-
-Admins design report structures through a visual builder. Users generate complex reports with custom filters, nested data, and multi-level grouping—all without devs writing queries or running migrations. Supports export to Excel, PDF, and CSV.
-
-**The problem:** Every new report meant a sprint of backend work.  
-**The fix:** Generic aggregation engine that builds MongoDB pipelines on the fly.
-
-Saved the team weeks of dev time and made report requests actually doable.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
