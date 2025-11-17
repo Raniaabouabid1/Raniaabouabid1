@@ -147,4 +147,4 @@ My inbox is open and I actually reply (usually within 24h, unless I'm deep in a 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=150&section=footer&text=Goodbye&fontSize=50&fontColor=fff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=150&section=footer&text=EOF&fontSize=50&fontColor=fff&animation=twinkling" />
