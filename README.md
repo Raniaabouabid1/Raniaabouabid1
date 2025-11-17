@@ -1,15 +1,19 @@
 <!-- PROFILE HEADER -->
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxqaXl4bWZnb2E4djl5cGNuY3N1NGpzbzg1N3JhbThmeW04MmRzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="220" alt="coding gif"/>
+  <!-- Uni / program badge -->
+  <img src="https://img.shields.io/badge/UVSQ%20%E2%80%93%20Paris--Saclay-IATIC4%20%7C%20Software%20Engineering-83005B?style=for-the-badge&labelColor=111827" />
+
+  <br/><br/>
 
   <!-- Typing SVG -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=E26CFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rania+👋;Software+%26+AI+engineering+student;Backend+%7C+Computer+Vision+%7C+Distributed+Systems" alt="Typing SVG" />
-  </h1>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=900&color=E26CFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rania+👋;4th+year+engineering+student+at+UVSQ+%2F+Paris%E2%80%91Saclay;Backend+dev+who+loves+AI+%26+computer+vision;Building+systems+that+actually+ship+and+scale"
+    alt="Animated introduction"
+  />
 
   <p>
-    <b>Paris–Saclay ⇄ Fès · building useful things with code, data & a bit of chaos magic.</b>
+    Paris-Saclay ⇄ Fès · using code, data & a bit of chaos magic to turn ideas into real tools.
   </p>
 
   <p>
@@ -21,54 +25,57 @@
 
 </div>
 
----
-
 <!-- WAVY SEPARATOR -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00bcd4&height=80&section=header"/>
 
-## ✨ About me
+## ✨ Little story
 
-- 🎓 Computer engineering student (UPF → UVSQ / Paris-Saclay).
-- 🧠 Into **backend**, **AI / CV**, **distributed systems**, and making dashboards that actually help people.
-- 🛰 Built a **network project tracking app** for Huawei (Spring Boot + Angular + MongoDB).
-- 🎥 Working on **real-time violence detection for football stadiums** (YOLOv8 + LSTM + RabbitMQ + Docker).
-- 🧩 I like data modelling, clean APIs, and overthinking architecture choices.
-- 🔄 Currently improving: cloud, advanced monitoring, and production-ready ML pipelines.
+- 📐 Started with a **pure maths & physics** path at *Faculté des Sciences et Techniques* in Fès.  
+- 🎓 Earned a **scholarship to UPF** (Université Privée de Fès) and went all-in on **computer engineering**.  
+- ✈️ Took the leap to **France** to continue my studies at **UVSQ / Université Paris-Saclay (IATIC)**.  
+- 🧠 Today I’m mixing **backend engineering**, **distributed systems** and **AI / computer vision** to build real-world projects.
 
----
-
-## 🛠 Tech playground
-
-<div align="center">
-
-  <!-- skill icons -->
-  <img src="https://skillicons.dev/icons?i=java,spring,py,opencv,pytorch,ts,angular,cs,dotnet,mysql,mongodb,docker,linux,git&perline=7" />
-
-</div>
+I like turning messy constraints into clean architectures, and I’m happiest when I have a whiteboard, a tricky problem, and too much coffee.
 
 ---
 
-## 🚀 What I love building
+## 🧰 Tech that feels like home
 
-- **Backend & APIs** – secure, well-documented REST APIs with layered architecture (DTOs, mappers, services, controllers).
-- **AI-powered apps** – computer vision & sequence models plugged into real-time systems.
-- **Dashboards & tools** – clean UIs where non-technical people can still feel powerful.
-- **Systems that talk** – microservices with message brokers (RabbitMQ), queues & events.
+### 🔒 Backend & security
+
+`Java` · `Spring Boot` · `Spring Security` · `JWT` · `.NET / C#` · `REST APIs` · `MongoDB` · `MySQL`
+
+- Layered architectures (DTOs, mappers, services, controllers)
+- Role-based auth, token-based security, clean error handling
+- Pagination, filtering, search helpers, soft/hard delete strategies
+
+### 🤖 AI & computer vision
+
+`Python` · `PyTorch` · `TensorFlow / Keras` · `YOLOv8` · `OpenCV`  
+
+- Real-time video processing, violence detection in stadiums  
+- Training, fine-tuning & evaluating models on custom datasets  
+
+### 🖥 Front & tooling
+
+`Angular` · `HTML` · `CSS / Tailwind` · `TypeScript`  
+`Docker` · `RabbitMQ` · `Git` · `Linux` · `Postman`  
 
 ---
 
-## 🔥 Featured work
-
-> (Public repos coming soon – a lot of my work is in internship / uni private repos.)
+## 🚀 A few things I’ve built
 
 - 🛰 **Huawei Tracker** – internal app for network rollout projects  
-  <sub>Spring Boot · Angular · MongoDB · JWT · Docker</sub>
+  <sub>Spring Boot · Angular · MongoDB · JWT · Docker</sub>  
+  → Project tracking, reporting, teams & permissions for the IAM NPM team.
 
 - 🎥 **Stadium Violence Detection** – real-time CCTV analysis & alerts  
-  <sub>Python · YOLOv8 · LSTM · RabbitMQ · Angular · Spring Boot · Docker</sub>
+  <sub>Python · YOLOv8 · LSTM · RabbitMQ · Angular · Spring Boot · Docker</sub>  
+  → Detects violent behaviours in stadium footage and triggers notifications.
 
-- 📊 **Dynamic Reporting Platform** – admin-driven report templates & sheets  
-  <sub>Spring Boot · MongoDB · flexible embedded schema</sub>
+- 📊 **Dynamic Reporting Platform** – flexible reporting on MongoDB  
+  <sub>Spring Boot · MongoDB · embedded templates · dynamic sheets</sub>  
+  → Admins design report structures; users generate complex reports without schema migrations.
 
 ---
 
@@ -87,20 +94,20 @@
 
 ---
 
-## 💬 How I work
+## 🧠 How I like to work
 
-- I like **writing things down**: diagrams, JSON structures, and “why” decisions.
-- I obsess over **edge cases and error handling** more than I probably should.
-- I believe good engineering = clear tradeoffs + honest constraints, not magic.
+- I care a lot about **data models, contracts and edge cases**.
+- I write down **why** we choose a design, not just *what* we do.
+- I like combining **serious engineering** with a bit of playful chaos and creativity.
 
 ---
 
-## 🌈 Outside of code
+## 🌈 Outside code
 
-- 🎤 I write & perform slam / spoken word.
-- 🎮 I lose track of time in strategy games.
-- ✈️ Always between two cities, two projects and two deadlines.
-- ☕ Strong opinions, weakly held – especially if you bring coffee.
+- 🎤 Slam & spoken-word enjoyer  
+- 🎮 Strategy & sim games addict  
+- ✈️ Living between **Paris** and **Fès**  
+- ☕ Always down to talk about projects, careers, or life over coffee (virtual or IRL)
 
 ---
 
@@ -108,6 +115,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,100:ff00ff&height=80&section=footer"/>
   
-  <sub>Thanks for passing by. If something here resonates, my DMs are open ✨</sub>
+  <sub>Thanks for scrolling all the way down ✨ If something here resonates, my inbox is open.</sub>
 
 </div>
